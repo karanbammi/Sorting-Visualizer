@@ -1,7 +1,7 @@
 
 //We only have to change background-color and height of the sorting element.
 
-var speed=1000;
+var speed=160;
 
 inp_aspeed.addEventListener("input",vis_speed);
 
